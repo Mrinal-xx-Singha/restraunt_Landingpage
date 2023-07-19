@@ -1,5 +1,19 @@
 # Deployed Link 👇 
-https://64b768cd68eede43a7ccdbfa--voluble-sopapillas-b0df76.netlify.app/
+
+[Live](https://64b768cd68eede43a7ccdbfa--voluble-sopapillas-b0df76.netlify.app/)
+
+## **Objective**
+The objective of this website is to make a fully responsive webapplication using create react app , To practice react best practices like folder structuring , react-Hooks and styling different components using flex , in this website we converted a figma deesign into  a website .
+
+
+
+## **Technology Stack**
+1. React
+2. html
+3. css
+4. javascript
+5. npm packages like react-icons
+
 
 ## **Screen Shots**
 
@@ -22,3 +36,8 @@ https://64b768cd68eede43a7ccdbfa--voluble-sopapillas-b0df76.netlify.app/
 ![Screenshot (225)](https://github.com/Mrinal-xx-Singha/restraunt_Landingpage/assets/100140781/1aebbb19-0733-49bc-93f0-ab14e316ed7b)
 
 ![Screenshot (226)](https://github.com/Mrinal-xx-Singha/restraunt_Landingpage/assets/100140781/e062ae5f-42ca-48f5-997e-ec6aebc7442d)
+
+
+### To run the website Locally
+
+use ```npm i && npm start```
